@@ -1,0 +1,29 @@
+#content {
+  /* border on all sides */
+  border: 30px solid gold; 
+
+  /* top border styles */
+  border-top: 10px;
+  border-top-color: violet;
+  border-top-style: solid;
+}
+
+ .crazy-color {
+  color: fuchsia;
+}
+
+img{
+  width: 200px;
+  float: center;
+  margin-right: 20px;
+}
+
+#footer {
+  height: 20px;
+  width: 500px;
+  margin: auto;
+  background: #336699;
+  color: #fff;
+  border: 10px solid yellow;
+  padding: 20px;
+}
